@@ -1267,9 +1267,10 @@ h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,.h1 a:hover,.h
   ;
 }
 
-a,.noo-menu li>a,.navbar-nav li>a,.navbar-nav ul.sub-menu li>a {
-	color: white;
+a,.noo-menu li>a,.navbar-nav li> ul.sub-menu li>a,.navbar-nav>a {
+	color: black;
 }
+
 @media (min-width: 992px) {
 .navbar-default .navbar-nav.sf-menu>li>ul.sub-menu {
 	border-top-color:#e6b706;

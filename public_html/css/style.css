@@ -534,7 +534,7 @@ a.text-danger:hover {
 }
 
 .bg-primary {
-	color:#fff;
+	columns: #000000;;
 	background-color:#e6b706;
 }
 
@@ -4301,7 +4301,7 @@ body.boxed-layout.nice-scroll .navbar-fixed-top {
   }
 }
 .navbar-nav li > a {
-  color: #2e2e2e;
+  color: white;
   padding: 15px 18px;
   line-height: 1.2;
   font-size: 14px;
