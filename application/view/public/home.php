@@ -320,7 +320,7 @@
 													<div class="app-section white">
 														<h3 class="white">Descarga nuestra aplicación móvil</h3>
 														<p>
-															<em>Encontrar la pasantía perfecta para ti nunca ha sido tan fácil. Ahora puedes encontrar la oportunidad perfecta que se ajuste a tu carrera y expectativas. Aplica a las diferentes ofertas y recibe las notificaciones directamente en tu dispositivo móvil. Descarga la aplicación de Internship Finder ahora.</em>
+															<em>Encontrar la pasantía perfecta para ti nunca ha sido tan fácil. Ahora puedes encontrar la oportunidad perfecta que se ajuste a tu carrera y expectativas. Aplica a las diferentes ofertas y recibe las notificaciones directamente en tu dispositivo móvil. Descarga la aplicación de SURVIVING UEES ahora.</em>
 															<img class="mr-2 mt-3" src="images/app-googleplay.png" alt="customer"/>
 															<img class="mt-3" src="images/app-appstore.png" alt="customer"/>
 														</p>

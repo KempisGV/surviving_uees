@@ -3,7 +3,7 @@
 		<div class="row">
 			<div class="col-sm-4">
 				<div class="widget widget_text">
-					<h4 class="widget-title">Internship Finder</h4>
+					<h4 class="widget-title">SURVIVING UEES</h4>
 					<div class="textwidget">
 						Donec elementum tellus vel magna bibendum, et fringilla metus tristique. Vestibulum cursus venenatis lacus, vel eleifend lectus blandit a.
 					</div>
@@ -14,9 +14,9 @@
 					<h4 class="widget-title">Contact Us</h4>
 					<div class="textwidget">
 						<p>
-							Internship Finder<br/>
+							SURVIVING UEES<br/>
 							Guayaquil, Ecuador<br/>
-							<a href="mailto:email@domain.com">info@internshipfinder.com</a><br/>
+							<a href="mailto:email@domain.com">info@survivinguees.com</a><br/>
 							http://jobmonster.com
 						</p>
 					</div>
@@ -45,7 +45,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="noo-bottom-bar-content">
-							© 2016 Internship Finder. Designed with
+							© 2016 SURVIVING UEES. Designed with
 							<i class="fa fa-heart"></i> by Zeerbyte
 						</div>
 					</div>
